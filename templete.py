@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 
 #Define package name
-package_name ="ElectricyBill"
+package_name ="StrokePrediction"
 
 #Write down the files needed to be created
 list_of_files = [
